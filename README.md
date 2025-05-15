@@ -68,9 +68,12 @@ range of devices to ensure navigation is easy for existing and new visitors to t
   
   
  
+ https://fonts.google.com/
+ https://www.freeconvert.com/
  
+ https://stackoverflow.com/
  
- 
+ Cook, C. and Garber, J. (2012), iFoundation HTML with CSS3: A Modern Guide and Reference,i Apress.
  
  
  
