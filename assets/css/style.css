@@ -3,7 +3,7 @@
 
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
-    background-color: #E5EDF1;
+    background-color: #ecf1f3;
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -20,7 +20,7 @@ body {
 
 h1, h2, h3 {
     font-family: 'Open Sans', sans-serif;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 2px;
     color: #3a3a3a;
 }
@@ -88,7 +88,7 @@ main {
     width: 30%;
     min-height: 200px;
     padding-top: 110px;
-    padding-left: 10px;
+    padding-left: 5px;
 }
 
 
