@@ -129,6 +129,16 @@ h4 {
     border: 2px solid white;
 }
 
+/* Facilities page */
+#photos img {
+    width: 100%;
+    line-height: 1em;
+}
+
+#photos {
+    line-height: 0;
+}
+
 
 /* Footer */
 #social-networks {
@@ -197,5 +207,22 @@ h4 {
         /*Push main content down to accomodate larger header */
         margin-top: 79px; 
     } 
+
+    /* Facilities */
+    #photos {
+        column-count: 3;
+    }
+}
+
+/* Media query: for laptops & desktops, 992px and larger */
+@media screen and (min-width: 992px) {
+    #menu a:hover {
+        border-bottom : 1px solid #3a3a3a;
+    }
+
+    /* Facilites */
+    #photos {
+        column-count: 4;
+    }
 }
 
