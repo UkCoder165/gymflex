@@ -145,7 +145,29 @@ h4 {
     text-align: center;
 }
 
-/* Contact Us*/
+/* Form */
+#contact {
+    background-image: url("../images/officeblock1.webp");
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 55% 60%;
+    flex-grow: 1;
+    margin-bottom: 10px;
+}
+
+#form {
+    height: 40rem;
+    width: 19rem;
+    padding: 20px;
+}
+
+.text-input {
+    width: 100%;
+    height: 25px;
+    /*margin: 5px 0 20px 0;
+    border-radius: 2px;*/
+    padding: 0 40px;
+}
 
 
 /* Footer */
@@ -238,6 +260,30 @@ h4 {
     }
 }
 
+    /* Contact Us*/
+        /*.image {
+        padding-top: 7rem;
+        padding-left: 7rem;
+        padding-right: 1rem;
+        width: 400px;
+        height: 700px;
+        flex-grow:1;
+    }*/
+
+    
+    #contact {
+        background-position: center;
+        position: relative;
+    }
+
+        #form {
+            max-width: 400px;
+            position: absolute;
+            left: 10%;
+            top: 150px;
+        }
+
+
 /* Media query: for laptops & desktops, 992px and larger */
 @media screen and (min-width: 992px) {
     #menu a:hover {
@@ -251,30 +297,33 @@ h4 {
     }
 }
 
-/* Form page */
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+/* Contact Us*/
+    
+    #contact {
+        background-position: center;
+            position: relative;
+    }
 
-.image {
-    padding-top: 7rem;
-    padding-left: 7rem;
-    padding-right: 1rem;
-    width: 400px;
-    height: 700px;
-    /*display:inline-block;*/
-}
-/*#contact {
-    /*display:inline-block;
-    background-position: center;
-    position: relative;
-}*/
+    
+    #signup-form {
+            max-width: 400px;
+            position: absolute;
+            left: 10%;
+            top: 150px;
+        }
 
-.details {
-    padding-left: 1rem;
-    display: flex;
-    align-items: top;
+    .text-input:hover {
+        border-color: #f16c6b;
+    }
+
+    .submit-button:hover {
+        background-color: #fafafa;
+        color: #454b1b;
+    }
+    
 }
 
-#form {
-    padding-top: 7rem;
-    padding-left: 10rem;
-}
+
 
