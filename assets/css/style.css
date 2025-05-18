@@ -186,13 +186,21 @@ label {
 #social-networks i {
     font-size: 120%;
     padding: 5%;
-    color: #3a3a3a;
+    /*color: #3a3a3a;*/
 }
 
 .copyright {
     text-align: center;
     font-family: 'Open Sans', sans-serif;
     font-size: x-small;
+}
+
+/* Media Query: large or landscape photos (576px and up) */
+@media screen and (min-width: 576px) {
+    #photos {
+        column-count: 2;
+        column-gap: 0;
+    }
 }
 
 /* Media query: tablets and larger (768px and up) */
@@ -214,13 +222,6 @@ label {
     }
 }
 
-/* Media Query: large or landscape photos (576px and up) */
-@media screen and (min-width: 576px) {
-    #photos {
-        column-count: 2;
-        column-gap: 0;
-    }
-}
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
@@ -290,8 +291,8 @@ label {
 
     /* Facilites */
     #photos {
-        position: center;
         column-count: 3;
+        justify-content: center;
     }
 }
 
@@ -301,6 +302,7 @@ label {
     
     #contact {
         background-position: center;
+        height: 700px;
         position: relative;
     }
 
