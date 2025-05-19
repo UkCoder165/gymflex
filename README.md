@@ -19,14 +19,12 @@ devices to ensure that navigation is easy for existing and new visitors to the g
  -  ### User Stories
  
    - #### First Time Visitor Goals
-          1. As an employee Newman Inc., I want to be able to workout during my lunch hour and not be late for work.
-          2. As an employee and someone who likes to exercise regularly, I want a gym that has a varied selection
-		  of well-maintained equipment with trained helpful staff.
-          3. As a potential gym user, I would expect the facilities to be clean and well presented and the opening hours
-		  to facilitate the working hours of Newman Inc. employees.
-		  4. As both a gym first-time user and an employee of Newman Inc. I would expect to be able to find all the details I need displayed
-		  on a clear, easy to navigate website.
-		  5. As a first-time visitor to Gymflex, I want to be able to contact the gym staff easily and to be able to book an induction.
+	  1. As both a gym first-time user and an employee of Newman Inc. I would like to be able to find all the details I need displayed
+		  on a clear, easy-to-navigate website.
+	  2. As a busy employee, I would like the gym opening times displayed on the website, showing the days, times, and duration of scheduled activities.
+          3. The gym's location should be easy to navigate, so I know exactly where to go.
+          4. As a first-time visitor, I want to see pictures of the gym's equipment and the available facilities.
+          5. As a first-time visitor to Gymflex, I want to be able to contact the gym staff easily to make any enquiries.
 
 
    - #### Returning Visitor Goals
