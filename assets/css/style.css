@@ -155,6 +155,9 @@ h4 {
     font-size: smaller;
     /*position: absolute;*/
 }
+textarea {
+    position: absolute;
+}
 
 label {
     font-size: smaller;
