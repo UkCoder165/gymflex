@@ -89,11 +89,11 @@ devices to ensure that navigation is easy for existing and new visitors to the g
 
  
 ## Resources accessed
- https://fonts.google.com/
- https://www.freeconvert.com/
- https://unsplash.com/
- https://stackoverflow.com/
- Cook, C. and Garber, J. (2012), iFoundation HTML with CSS3: A Modern Guide and Reference,i Apress.
+ https://fonts.google.com/  
+ https://www.freeconvert.com/  
+ https://unsplash.com/  
+ https://stackoverflow.com/  
+ Cook, C. and Garber, J. (2012), Foundation HTML with CSS3: A Modern Guide and Reference, Apress.
  
  
  
