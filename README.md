@@ -26,15 +26,15 @@ devices to ensure that navigation is easy for existing and new visitors to the g
 
 
    - #### Returning Visitor Goals
-          1. As a returning visitor to Gymflex, I would like friendly, knowledgable staff to make me feel welcome and at ease whilst using the gym.
-          2. As a returning visitor, I want to be able to workout before and after work and during my lunch break.
-          3. As a returning visitor, it would be nice to be offered work-out plans and goals to keep me fit and healthy.
+          1. As a returning visitor to Gymflex, I would like to be kept updated with any changes to opening times and scheduled events via the website.
+          2. I would like to be able to contact the gym via its' website to enquire about booking an induction and a personal trainer.
+          3. As a returning visitor, I would like to be able the gym equipment to help me plan my workouts.
 		  
 		  
    - #### Frequent User Goals
-          1. As an employee of Newman Inc., I would like the staff to recognise and welcome me during my time at the gym.
-          2. As a frequent user, I would like to opportunity to be invited to participate in scheduled fitness workouts.
-          3. As a frequent user, I want to be kept updated on changes to opening times and equipment availabity and these
+          1. As an employee of Newman Inc., I would like to be kept up-to-date on any special events through the gym's website.
+          2. As a frequent user, I would like my experience of using the website to be appreciated by its staff.
+          3. As a frequent user, I want to be kept updated on changes to the opening times, equipment, availability, and these
 		  to be displayed on a website.
 		  
 		  
