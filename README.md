@@ -57,7 +57,9 @@ devices to ensure that navigation is easy for existing and new visitors to the g
  -  ### Wireframes
 
 
-- ## Features
+
+
+- ### Features
 
  -  Responsive on all devices
  
@@ -65,13 +67,13 @@ devices to ensure that navigation is easy for existing and new visitors to the g
  -  Interactive elements
  
  
-- ## Technologies Used
+- ### Technologies Used
  
   - HTML
   - CSS
 
 
-- ## Testing
+- ### Testing
    
    ![index](https://github.com/user-attachments/assets/a6e36285-8bf1-44bd-8fab-77e2459af388)
 
@@ -88,7 +90,7 @@ devices to ensure that navigation is easy for existing and new visitors to the g
 
 
  
-- ## Resources accessed
+- ### Resources accessed
   - https://fonts.google.com/  
   - https://www.freeconvert.com/  
   - https://unsplash.com/  
