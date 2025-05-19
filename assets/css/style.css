@@ -145,8 +145,8 @@ h4 {
     padding: 10% 10% 50% 50%;
     height: 700px;
     flex-grow: 1;
-    display: flex;
-    position: relative;
+    /*display: flex;
+    position: relative;*/
 }
 
 #form {
@@ -155,7 +155,7 @@ h4 {
     padding: 20px;
     /*padding-bottom: 20px;*/
     padding-top: 20px;
-    position: absolute;
+    /*position: absolute;*/
 }
 
 label {
