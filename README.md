@@ -3,7 +3,7 @@
 View the Gymflex website here: https://ukcoder165.github.io/gymflex/
 
 ## About the Gymflex Website
-This is the main website for Gymflex, operator of a corporate gym, located within the headquarters of Newman Inc.,
+Gymflex is the operator of the corporate gym located within the headquarters of Newman Inc.,
 a multi-national finance company in London. The website is designed to be responsive and accessible on various
 devices to ensure that navigation is easy for existing and new visitors to the gym.
 
