@@ -142,12 +142,11 @@ h4 {
     background-image: url("../images/officeblock1.webp");
     background-size: cover;
     background-position: 75%;
-    padding: 10% 10% 0 10%;
+    padding: 10% 10% 10% 10%;
     flex-grow: 1;
 }
 
 #form {
-    /*padding: 5px;*/
     padding-top: 20px;
     padding-bottom: 10px;
     font-size: smaller;
