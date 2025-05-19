@@ -164,6 +164,7 @@ label {
     padding-top: 0.5 rem;
     font-size:x-small;
     font-style: italic;
+    position: absolute;
     /*text-align: center;*/
 }
 
