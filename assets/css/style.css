@@ -156,6 +156,10 @@ label {
 }
 
 /* Footer */
+
+hr {
+    color:whitesmoke;
+}
 #social-networks {
     text-align: center;
     padding: 20px;
