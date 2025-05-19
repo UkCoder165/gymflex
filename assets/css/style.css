@@ -155,8 +155,12 @@ h4 {
     font-size: smaller;
     /*position: absolute;*/
 }
-textarea {
-    position: absolute;
+/*textarea {
+    position: left;
+}*/
+
+submit {
+    position: left;
 }
 
 label {
