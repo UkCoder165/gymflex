@@ -48,7 +48,7 @@ devices to ensure that navigation is easy for existing and new visitors to the g
           - Font colour: #3a3a3a
 		  	  
    - #### Typography
-          - Roboto and Sans-serif as the font in case Roboto fails to load.
+          The font used throughout the website is Roboto, with Sans-serif as a secondary font in case Roboto fails to load.
 
    - #### Imagery
           -
