@@ -1,10 +1,10 @@
 <h1 align="center">Gymflex</h1>
 
-[view the live website here.] (mmm)
+View the Gymflex website here: https://ukcoder165.github.io/gymflex/
 
-This is the main website for Gymflex, the opreator of a corporate gym within the headquaters of Newman Inc.,
-a multi-national finance company in London. The website is designed to be responsive and accessible on a 
-range of devices to ensure navigation is easy for existing and new visitors to the gym.
+This is the main website for Gymflex, operator of a corporate gym, located within the headquarters of Newman Inc.,
+a multi-national finance company in London. The website is designed to be responsive and accessible on various
+devices to ensure that navigation is easy for existing and new visitors to the gym.
 
 ![Screenshot 2025-05-19 162458](https://github.com/user-attachments/assets/29c961da-2540-4fd1-8030-0a72ffe67d2d)
 
