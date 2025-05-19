@@ -73,11 +73,11 @@ devices to ensure that navigation is easy for existing and new visitors to the g
 
 ## Testing
    
- ![index](https://github.com/user-attachments/assets/a6e36285-8bf1-44bd-8fab-77e2459af388)
+   ![index](https://github.com/user-attachments/assets/a6e36285-8bf1-44bd-8fab-77e2459af388)
 
- ![facilities](https://github.com/user-attachments/assets/cb0d4f57-c3ec-4aa3-b692-fb4b4c5f6dd3)
+   ![facilities](https://github.com/user-attachments/assets/cb0d4f57-c3ec-4aa3-b692-fb4b4c5f6dd3)
 
- ![contact](https://github.com/user-attachments/assets/dc1891ac-de6a-44c6-bc05-7551b06d777f)
+   ![contact](https://github.com/user-attachments/assets/dc1891ac-de6a-44c6-bc05-7551b06d777f)
 
 
 
@@ -89,11 +89,11 @@ devices to ensure that navigation is easy for existing and new visitors to the g
 
  
 ## Resources accessed
- https://fonts.google.com/  
- https://www.freeconvert.com/  
- https://unsplash.com/  
- https://stackoverflow.com/  
- Cook, C. and Garber, J. (2012), Foundation HTML with CSS3: A Modern Guide and Reference, Apress.
+  - https://fonts.google.com/  
+  - https://www.freeconvert.com/  
+  - https://unsplash.com/  
+  - https://stackoverflow.com/  
+  - Cook, C. and Garber, J. (2012), Foundation HTML with CSS3: A Modern Guide and Reference, Apress.
  
  
  
