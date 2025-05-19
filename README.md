@@ -19,7 +19,7 @@ devices to ensure that navigation is easy for existing and new visitors to the g
  -  ### User Stories
  
    - #### First Time Visitor Goals 
-	  1. As both a gym first-time user and an employee of Newman Inc., I would like to be able to find all the details displayed on a clear, easy-to-navigate website.  
+	   1. As both a gym first-time user and an employee of Newman Inc., I would like to be able to find all the details displayed on a clear, easy-to-navigate website.  
           2. As a busy employee, I would like the gym opening times displayed on the website, showing the days, times, and duration of scheduled activities.  
           3. The gym's location should be easy to navigate, so I know exactly where to go.  
           4. As a first-time visitor, I want to see pictures of the gym's equipment and the available facilities.  
