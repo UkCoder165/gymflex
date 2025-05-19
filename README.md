@@ -30,7 +30,7 @@ devices to ensure that navigation is easy for existing and new visitors to the g
    - #### Returning Visitor Goals
           1. As a returning visitor to Gymflex, I would like to be kept updated with any changes to opening times and scheduled events via the website.
           2. I would like to be able to contact the gym via its' website to enquire about booking an induction and a personal trainer.
-          3. As a returning visitor, I would like to be able the gym equipment to help me plan my workouts.
+          3. As a returning visitor, I would like pictures on the website displaying gym equipment to help me plan my workouts.
 		  
 		  
    - #### Frequent User Goals
@@ -43,11 +43,11 @@ devices to ensure that navigation is easy for existing and new visitors to the g
  -  ### Design
 		
    - #### Color Scheme
-          -
-		  
-		  
+          - Background colour: #f0f1f1
+          - Font colour: #3a3a3a
+		  	  
    - #### Typography
-          -
+          - Roboto and Sans-serif as the font in case Roboto fails to load.
 
    - #### Imagery
           -
@@ -58,22 +58,16 @@ devices to ensure that navigation is easy for existing and new visitors to the g
 
 ## Features
 
-
- -  #### Responsive on all devices
+ -  Responsive on all devices
  
  
- -  #### Interactive elements
+ -  Interactive elements
  
  
 ## Technologies Used
  
-  - ### HTML5
-  - ### CSS
-
-
-
-
-
+  - HTML
+  - CSS
 
 
 ## Testing
@@ -111,12 +105,4 @@ devices to ensure that navigation is easy for existing and new visitors to the g
 
 
 
-You can try CommonMark here.  This dingus is powered by
-[commonmark.js](https://github.com/commonmark/commonmark.js), the
-JavaScript reference implementation.
-
-1. item one
-2. item two
-   - sublist
-   - sublist
 
