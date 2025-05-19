@@ -144,16 +144,13 @@ h4 {
     background-position: 75%;
     padding: 10% 10% 0 10%;
     flex-grow: 1;
-    /*display: flex;
-    position: relative;*/
 }
 
 #form {
     padding: 5px;
-    /*padding-bottom: 20px;*/
     padding-top: 20px;
     font-size: smaller;
-    /*position: absolute;*/
+    
 }
 /*textarea {
     position: left;
@@ -286,6 +283,10 @@ label {
     #photos {
         column-count: 3;
         justify-content: center;
+    }
+
+    #form {
+        height: 500px;
     }
 }
 
