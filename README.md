@@ -60,7 +60,7 @@ devices to ensure that navigation is easy for existing and new visitors to the g
 
     Being responsive on all devices, navigation to all pages is possible by selecting any of the three selections at the top of the screen. When first loaded onto devices, the home page will be the first to be displayed. Two other page options are available: Facilities and a Contact page. At the foot of each page are the Gymflex social media icons.
 
-- #### Pages   
+- ### Pages   
 
 - **Home** - An image of the gym's treadmills is displayed to enable potential gym users to gain an insight into the equipment they can expect at the gym. Below the image are details of its location, opening times, inductions, available classes, in addition to information containing a clickable link to enquire and book a personal trainer. Navigation through the website is possible by clicking the relevant link at the top of the page.  
 - **Facilities** -  Designed to be visually informative, several images are displayed underneath the main header, illustrating the facilities available to every gym user. A more detailed description of the gym's equipment and its facilities can be found further down the page, above the social media icons. Again, navigation to other pages can be found at the top of the page.
