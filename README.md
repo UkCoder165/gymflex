@@ -80,7 +80,7 @@ devices to ensure that navigation is easy for existing and new visitors to the g
 - ### Testing
 - At the end of the coding process, each page was validated through the https://validator.w3.org/ website to identify any errors within the code, which were then corrected. This process was repeated until there were no errors present. However, a warning was identified on the Facilities page highlighting the absence of a H1 or H2 heading at the top of the page. In or to to keep the continuity consistent on all pages, a heading was not added.
 - Testing of the CSS through https://jigsaw.w3.org/css-validator/ identified where adjustments in the Gymflex's code were required, and these were implemented until eradicated.
-- The quality, performance, and accessibility of the Gymflex website were measured when each page was tested through Lighthouse in Devtools and the results are displayed below for each page.
+- The quality, performance, and accessibility of the Gymflex website were measured when each page was tested through "Lighthouse", found within Devtools. The results are displayed below for each page.
    
    ![index](https://github.com/user-attachments/assets/a6e36285-8bf1-44bd-8fab-77e2459af388)
 
