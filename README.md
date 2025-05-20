@@ -54,13 +54,13 @@ devices to ensure that navigation is easy for existing and new visitors to the g
           The font used throughout the website is Roboto, with Sans-serif as a secondary font in case Roboto fails to load.
 
    - #### Imagery
-          All of the royalty-free images used for the Gymflex website were obtained from unsplash.com and converted to webp images through freeconvert.com
+          All royalty-free images used for the Gymflex website were obtained from unsplash.com and converted to webp images through freeconvert.com
 
  - ### Features
 
-         Being responsive on all devices, navigation to all pages is possible by selecting any of the three selections at the top <br/>of the screen. When first loaded onto devices, the home page will be the first to be displayed. Two other page options are available: Facilities and a Contact page.
+         Being responsive on all devices, navigation to all pages is possible by selecting any of the three selections at the top of the screen. When first loaded onto devices, the home page will be the first to be displayed. Two other page options are available: Facilities and a Contact page.
  
-         __Home Page__ - An image of the gym's treadmills is displayed to enable potential gym users to gain an insight into the equipment they can expect at the gym. Below the image are details of its location, opening times, inductions, and available classes, in addition to information containing a clickable link to enquire and book a personal trainer.
+         - #### Home Page__ - An image of the gym's treadmills is displayed to enable potential gym users to gain an insight into the equipment they can expect at the gym. Below the image are details of its location, opening times, inductions, and available classes, in addition to information containing a clickable link to enquire and book a personal trainer.
  -  
  -  Interactive elements
  
