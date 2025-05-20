@@ -28,8 +28,8 @@ devices to ensure that navigation is easy for existing and new visitors to the g
 
 
 - #### Returning Visitor Goals
-  1. As a returning visitor to Gymflex, I would like to be kept updated with any changes to opening times and scheduled events via the website.
-  2. I would like to be able to contact the gym via its' website to enquire about booking an induction and a personal trainer.
+  1. As a returning visitor to Gymflex, I would like to be regularly updated with any changes to opening times and scheduled events via the website.
+  2. I would like to be able to contact the gym via its website to enquire about booking an induction and a personal trainer.
   3. As a returning visitor, I would like pictures on the website displaying gym equipment to help me plan my workouts.
 		  
 
@@ -58,10 +58,10 @@ devices to ensure that navigation is easy for existing and new visitors to the g
 
  - ### Features
 
-    Being responsive on all devices, navigation to all pages is possible by selecting any of the three selections at the top of the screen. When first loaded onto devices, the home page will be the first to be displayed. Two other page options are available: Facilities and a Contact page.  
+    Being responsive on all devices, navigation to all pages is possible by selecting any of the three selections at the top of the screen. When first loaded onto devices, the home page will be the first to be displayed. Two other page options are available: Facilities and a Contact page. At the foot of each page are the Gymflex social media icons.
 
-- **Home Page** - An image of the gym's treadmills is displayed to enable potential gym users to gain an insight into the equipment they can expect at the gym. Below the image are details of its location, opening times, inductions, and available classes, in addition to information containing a clickable link to enquire and book a personal trainer.
- -  
+- **Home Page** - An image of the gym's treadmills is displayed to enable potential gym users to gain an insight into the equipment they can expect at the gym. Below the image are details of its location, opening times, inductions, available classes, in addition to information containing a clickable link to enquire and book a personal trainer. Navigation through the website is possible by clicking the relevant link at the top of the page.  
+- **Facilites** -    
  -  Interactive elements
  
  
