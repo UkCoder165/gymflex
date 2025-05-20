@@ -58,11 +58,12 @@ devices to ensure that navigation is easy for existing and new visitors to the g
 
 
 
-- ### Features
+ - ### Features
 
- -  Responsive on all devices
+ -  Being responsive on all devices, navigation to all pages is possible by selecting any of the three selections at the top of the screen. When first loaded onto devices, the home page will be the first to be displayed. Two other page options are available: Facilities and a Contact page.
  
- 
+- #### Home Page
+ -  
  -  Interactive elements
  
  
