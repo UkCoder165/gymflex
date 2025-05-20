@@ -99,6 +99,7 @@ devices to ensure that navigation is easy for existing and new visitors to the g
 
  
 - ### Resources accessed
+  - Code Institute - Love Running project
   - https://fonts.google.com/  
   - https://www.freeconvert.com/  
   - https://unsplash.com/  
