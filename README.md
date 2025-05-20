@@ -65,8 +65,8 @@ devices to ensure that navigation is easy for existing and new visitors to the g
 - **Home** - An image of the gym's treadmills is displayed to enable potential gym users to gain an insight into the equipment they can expect at the gym. Below the image are details of its location, opening times, inductions, available classes, in addition to information containing a clickable link to enquire and book a personal trainer. Navigation through the website is possible by clicking the relevant link at the top of the page.  
 - **Facilities** -  Designed to be visually informative, several images are displayed underneath the main header, illustrating the facilities available to every gym user. A more detailed description of the gym's equipment and its facilities can be found further down the page, above the social media icons. Again, navigation to other pages can be found at the top of the page.
 - **Contact** - Visitors to the website are able to contact the gym's staff through a contact form. Input fields request users to provide their name, department, phone number, and email address. Page links at the top of the page enable navigation to the facilities and home pages.  
-- #### Interactive elements
-At the top of each page are the page names, which when clicked, take the useer to the relevant page.
+- ### Interactive elements
+ At the top of each page are the page names, which when clicked, take the useer to the relevant page.
   On the home page, the blue words "Contact us" are a hyperlink that, when clicked, takes the user to the Contact page where they can fill in their details to make an enquiry.
   Upon completion of the enquiry form found on the "Contact Us" page, a "Submit" button sends the form to the Gym's staff.
  
