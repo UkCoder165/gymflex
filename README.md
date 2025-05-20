@@ -47,7 +47,6 @@ devices to ensure that navigation is easy for existing and new visitors to the g
    - #### Color Scheme
           The following colours were chosen as the website's colour scheme and remain consistent on all pages.
 
-     
              Background colour: #f0f1f1
              Font colour: #3a3a3a
 		  	  
@@ -55,7 +54,9 @@ devices to ensure that navigation is easy for existing and new visitors to the g
           The font used throughout the website is Roboto, with Sans-serif as a secondary font in case Roboto fails to load.
 
    - #### Imagery
-          - All of the royalty-free images used for the Gymflex website were obtained from unsplash.com and converted to webp images through freeconvert.com.
+          All of the royalty-free images used for the Gymflex website were obtained from unsplash.com and converted to webp images through freeconvert.com.
+
+     
 
  -  ### Wireframes
 
