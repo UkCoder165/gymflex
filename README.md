@@ -39,7 +39,8 @@ devices to ensure that navigation is easy for existing and new visitors to the g
   3. As a frequent user, I want to be kept updated on changes to the opening times, equipment, availability, and these
 		  to be displayed on a website.
 		  
-
+ - ### Wireframes
+   Illustrations are located in the "fireframe" folder within the "assets" folder.
     
  -  ### Design
 
