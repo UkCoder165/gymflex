@@ -45,20 +45,20 @@ devices to ensure that navigation is easy for existing and new visitors to the g
 
   
    - #### Color Scheme
-          The following colours were chosen as the website's colour scheme and remain consistent on all pages.
+     The following colours were chosen as the website's colour scheme and remain consistent on all pages.
 
-             Background colour: #f0f1f1
+       Background colour: #f0f1f1
              Font colour: #3a3a3a
 		  	  
    - #### Typography
-          The font used throughout the website is Roboto, with Sans-serif as a secondary font in case Roboto fails to load.
+     The font used throughout the website is Roboto, with Sans-serif as a secondary font in case Roboto fails to load.
 
    - #### Imagery
-          All royalty-free images used for the Gymflex website were obtained from unsplash.com and converted to webp images through freeconvert.com
+     All royalty-free images used for the Gymflex website were obtained from unsplash.com and converted to webp images through freeconvert.com
 
  - ### Features
 
-         Being responsive on all devices, navigation to all pages is possible by selecting any of the three selections at the top of the screen. When first loaded onto devices, the home page will be the first to be displayed. Two other page options are available: Facilities and a Contact page.  
+    Being responsive on all devices, navigation to all pages is possible by selecting any of the three selections at the top of the screen. When first loaded onto devices, the home page will be the first to be displayed. Two other page options are available: Facilities and a Contact page.  
 
 - **Home Page** - An image of the gym's treadmills is displayed to enable potential gym users to gain an insight into the equipment they can expect at the gym. Below the image are details of its location, opening times, inductions, and available classes, in addition to information containing a clickable link to enquire and book a personal trainer.
  -  
