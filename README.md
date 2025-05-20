@@ -16,21 +16,21 @@ devices to ensure that navigation is easy for existing and new visitors to the g
 ## User Experience (UX)
 
 
- -  ### User Stories
+-  ### User Stories
  
-   - #### First Time Visitor Goals  
+- #### First Time Visitor Goals  
   	  
-          1. As a gym first-time user and an employee of Newman Inc., I would like to find all the details displayed on a clear, easy-to-navigate website.   
-          2. As a busy employee, I would like the gym opening times displayed on the website, showing the days, times, and duration of scheduled activities.  
-          3. The gym's location should be easy to navigate, so I know exactly where to go.  
-          4. As a first-time visitor, I want to see pictures of the gym's equipment and the available facilities.  
-          5. As a first-time visitor to Gymflex, I want to be able to contact the gym staff easily to make any enquiries.  
+  1. As a gym first-time user and an employee of Newman Inc., I would like to find all the details displayed on a clear, easy-to-navigate website.   
+  2. As a busy employee, I would like the gym opening times displayed on the website, showing the days, times, and duration of scheduled activities.  
+  3. The gym's location should be easy to navigate, so I know exactly where to go.  
+  4. As a first-time visitor, I want to see pictures of the gym's equipment and the available facilities.  
+  5. As a first-time visitor to Gymflex, I want to be able to contact the gym staff easily to make any enquiries.  
 
 
-   - #### Returning Visitor Goals
-          1. As a returning visitor to Gymflex, I would like to be kept updated with any changes to opening times and scheduled events via the website.
-          2. I would like to be able to contact the gym via its' website to enquire about booking an induction and a personal trainer.
-          3. As a returning visitor, I would like pictures on the website displaying gym equipment to help me plan my workouts.
+- #### Returning Visitor Goals
+  1. As a returning visitor to Gymflex, I would like to be kept updated with any changes to opening times and scheduled events via the website.
+  2. I would like to be able to contact the gym via its' website to enquire about booking an induction and a personal trainer.
+  3. As a returning visitor, I would like pictures on the website displaying gym equipment to help me plan my workouts.
 		  
 
 - #### Frequent User Goals
