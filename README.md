@@ -40,7 +40,7 @@ devices to ensure that navigation is easy for existing and new visitors to the g
 		  to be displayed on a website.
 		  
  - ### Wireframes
-   Illustrations are located in the "fireframe" folder within the "assets" folder.
+   Illustrations are located in the "wireframes" folder within the "assets" folder.
     
  -  ### Design
 
