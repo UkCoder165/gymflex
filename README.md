@@ -54,14 +54,7 @@ devices to ensure that navigation is easy for existing and new visitors to the g
           The font used throughout the website is Roboto, with Sans-serif as a secondary font in case Roboto fails to load.
 
    - #### Imagery
-          All of the royalty-free images used for the Gymflex website were obtained from unsplash.com and converted to webp images through freeconvert.com.
-
-     
-
- -  ### Wireframes
-
-
-
+          All of the royalty-free images used for the Gymflex website were obtained from unsplash.com and converted to webp images through freeconvert.com
 
  - ### Features
 
