@@ -44,7 +44,7 @@ devices to ensure that navigation is easy for existing and new visitors to the g
  -  ### Design
 
   
-   - #### Color Scheme
+   - #### Colour Scheme
      The following colours were chosen as the website's colour scheme and remain consistent on all pages.
 
        Background colour: #f0f1f1  
